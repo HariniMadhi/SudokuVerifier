@@ -39,4 +39,4 @@ cd SudokuVerifier
 ## Authors 
 
 * **Harini Madhi** - [@HariniMadhi](https://github.com/HariniMadhi)
-* **Bhavadharani** - [@bhava](https://github.com/-----------------------)
+* **Bhavadharani Balaji** - [@bhavadharanijb](https://github.com/bhavadharanijb)
