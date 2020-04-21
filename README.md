@@ -23,7 +23,7 @@ project overview
 - Clone this repository using the command:
 ```
 git clone https://github.com/HariniMadhi/SudokuVerifier.git
-cd VirtualMemory
+cd SudokuVerifier
 ```
 - All set, go get your hands dirty !
 
