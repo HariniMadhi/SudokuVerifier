@@ -4,7 +4,7 @@ An easy and parallel way to verify the sudoku
 
 ## Getting Started
 
-- The project [report](https://github.com/HariniMadhi/ParallelSort/blob/master/REPORT.docx?raw=true) will go through the 
+- The project [report](https://github.com/HariniMadhi/ParallelSort/blob/master/REPORT.odt?raw=true) will go through the 
 project overview 
 
 - Give it a read 
